@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @skarma
 - 👀 I’m interested in ML, DSA, WEB-DEV.
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on WEB-DEV. Projects
+- 🌱 I’m currently learning about compiler
 - 📫 How to reach me email:- skarmamjpru@gmail.com
 
 <!---
